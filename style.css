@@ -1,0 +1,85 @@
+body {
+  background-color: #e8fffd;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: #000;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+
+li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+table {
+  font-size: small;
+  position: relative;
+  left: 10px;
+  size: 600px;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: rgb(73, 72, 72);
+}
+th,
+td {
+  padding: 1% 0.4%;
+  text-align: left;
+}
+th {
+  text-transform: uppercase;
+  border-bottom: 0.4% solid #000;
+  background-color: #fff;
+}
+tr:nth-child(odd) {
+  background-color: rgb(255, 255, 255);
+}
+
+select {
+  font-size: 12;
+  width: 200px;
+  border-radius: 5px;
+  outline: none;
+  color: #808080;
+}
+
+.Object_Explorer {
+  float: left;
+  width: 30%;
+  padding-left: 1.5%;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: rgb(73, 72, 72);
+}
+
+#logo {
+  float: right;
+  height: 100px;
+}
+#trust {
+  height: 100px;
+}
+
+.push {
+  float: right;
+  width: 3%;
+}
+.rightPos {
+  float: right;
+}
+#submit {
+  background-color: #d3ffcd;
+}
+#refresh {
+  background-color: #ffeded;
+}
