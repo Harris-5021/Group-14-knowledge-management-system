@@ -58,7 +58,7 @@ require("script.php"); ?>
             <option value="Motorway Junction">Motorway Junction</option>
             <option value="Smart Motorway">Smart Motorway</option>
             <option value="Station - New">Station - New</option>
-            <option value="Depot/ Sidings">Depot / Sidings</option>
+            <option value="Depot / Sidings">Depot / Sidings</option>
             <option value="Sub-station">Sub-station</option>
             <option value="OHL Tower">OHL Tower</option>
             <option value="Underground">Underground</option>
